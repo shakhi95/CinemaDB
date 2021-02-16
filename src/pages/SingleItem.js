@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import Spinner from "../components/Spinner";
 
-const url = "http://www.omdbapi.com/?apikey=b3d6fdf6";
+const url = "https://www.omdbapi.com/?apikey=b3d6fdf6";
 const defaultImg =
   "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png";
 
