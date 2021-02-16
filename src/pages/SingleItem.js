@@ -26,6 +26,7 @@ const SingleItem = (props) => {
 
   useEffect(() => {
     fetchOne();
+    // eslint-disable-next-line
   }, [id]);
 
   if (loading) {

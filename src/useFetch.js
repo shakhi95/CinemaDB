@@ -18,7 +18,14 @@ const useFetch = (searchTerm, page) => {
   };
 
   useEffect(() => {
-    fetchData();
+    const timeoutId = setTimeout(() => {
+      fetchData();
+    }, 700);
+
+    return () => {
+      clearTimeout(timeoutId);
+    };
+    // eslint-disable-next-line
   }, [searchTerm, page]);
 
   return { loading, result };
