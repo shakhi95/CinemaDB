@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CinemaDB/static/css/main.e4a2e01c.chunk.css",
-    "main.js": "/CinemaDB/static/js/main.f4a27ce7.chunk.js",
-    "main.js.map": "/CinemaDB/static/js/main.f4a27ce7.chunk.js.map",
+    "main.js": "/CinemaDB/static/js/main.e3aa166c.chunk.js",
+    "main.js.map": "/CinemaDB/static/js/main.e3aa166c.chunk.js.map",
     "runtime-main.js": "/CinemaDB/static/js/runtime-main.aafed991.js",
     "runtime-main.js.map": "/CinemaDB/static/js/runtime-main.aafed991.js.map",
     "static/js/2.f9dc3954.chunk.js": "/CinemaDB/static/js/2.f9dc3954.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.aafed991.js",
     "static/js/2.f9dc3954.chunk.js",
     "static/css/main.e4a2e01c.chunk.css",
-    "static/js/main.f4a27ce7.chunk.js"
+    "static/js/main.e3aa166c.chunk.js"
   ]
 }
