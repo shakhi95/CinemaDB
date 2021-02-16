@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const url = "http://www.omdbapi.com/?apikey=b3d6fdf6";
+const url = "https://www.omdbapi.com/?apikey=b3d6fdf6";
 
 const useFetch = (searchTerm, page) => {
   //
